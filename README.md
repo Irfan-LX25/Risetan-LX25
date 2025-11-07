@@ -1,2 +1,2 @@
 # Risetan-LX25
-LX25 programming research and development
+LX25 PROGRAMMING RESEARCH AND DEVELOPMENT
