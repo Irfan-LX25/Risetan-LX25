@@ -3,7 +3,9 @@
 # 🤖 RI-SETAN LX25  
 
 <img src="docs/KRAI.png" width="180"/>
+
 LX25 PROGRAMMING RESEARCH AND DEVELOPMENT
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/Irfan-LX25/Ri-Setan-LX25)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Irfan-LX25/Ri-Setan-LX25)
 ![Robotics](https://img.shields.io/badge/Robotics-Research-blue)
