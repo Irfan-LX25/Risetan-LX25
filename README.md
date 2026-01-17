@@ -16,7 +16,7 @@ Dokumentasi Riset Program LX24: https://github.com/HabibMuhammad05/KRAI-ESPNOW-D
 
 # 🤖 RI-SETAN LX25  
 
-<img src="docs/KRAI-01.png" width="180"/>
+<img src="docs/KRAI.png" width="180"/>
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Irfan-LX25/Ri-Setan-LX25)
