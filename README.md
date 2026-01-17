@@ -15,10 +15,9 @@ Dokumentasi Riset Program LX24: https://github.com/HabibMuhammad05/KRAI-ESPNOW-D
 <div align="center">
 
 # 🤖 RI-SETAN LX25  
-### Robotics Intelligent System – Research Division
 
 <img src="docs/polirevo-02.png" width="180"/>
-
+<img src="docs/polirevo-02.png" width="180"/>
 ![GitHub repo size](https://img.shields.io/github/repo-size/Irfan-LX25/Ri-Setan-LX25)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Irfan-LX25/Ri-Setan-LX25)
 ![Robotics](https://img.shields.io/badge/Robotics-Research-blue)
